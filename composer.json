@@ -14,6 +14,6 @@
         "wp-cli/wp-cli": "^1.1.0"
     },
     "require-dev": {
-        "behat/behat": "~2.5"
+        "behat/behat": "~3.6"
     }
 }
